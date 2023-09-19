@@ -5,6 +5,7 @@ This repository contains a Jupyter Notebook that performs an analysis on the fam
 ## Dataset Description
 
 The Titanic dataset is a classic dataset used in machine learning and data analysis. It consists of information about passengers aboard the Titanic, including their demographics, cabin class, ticket fare, and survival status. The dataset is widely used for predictive modeling and exploring various data analysis techniques.
+
 <img src="github-imgs/titanic.jpg" style="float: left; text-align: center;">
 
 
